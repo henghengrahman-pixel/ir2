@@ -74,9 +74,9 @@ export const defaultSettings = {
   "registerUrl": "https://omtogelblue.com/",
   "runningText": "Selamat datang di OMTOGEL, Bandar Bola, Togel, Live Casino & Slot Online Terbesar di Indonesia.",
   "logoUrl": "https://i.ibb.co.com/1Y9ddgCc/27aug2025.png",
-  "footerText": "OMTOGEK \u2022 Prediksi Skor",
-  "metaTitle": "Prediksi Bola \u2022 Bandar Toto",
-  "metaDescription": "Selamat datang di pusat prediksi OMTOGEL dan bola paling lengkap dan terpercaya! Kami menyajikan angka jitu, prediksi skor bola, dan analisa pasaran dari berbagai liga dan pasaran populer seperti Singapore, Hongkong, Sydney, Premier League, La Liga, dan lainnya."
+  "footerText": "DENTOTO \u2022 Prediksi Skor",
+  "metaTitle": "Prediksi Bola \u2022 DENTOTO",
+  "metaDescription": "Selamat datang di pusat prediksi DENTOTO dan bola paling lengkap dan terpercaya! Kami menyajikan angka jitu, prediksi skor bola, dan analisa pasaran dari berbagai liga dan pasaran populer seperti Singapore, Hongkong, Sydney, Premier League, La Liga, dan lainnya."
 };
 
 export const defaultAds = [
